@@ -10,7 +10,7 @@ The ilert MCP server is remote and uses the [Streamable HTTP transport](https://
 
 ## Usage
 
-See the [ilert docs](https://docs.ilert.com/developer-docs/mcp-server/overview) for instructions on how to connect with the most popular AI agents and coding assistants like Claude, Cline, Cursor and Windsurf.
+See the [DOCUMENTATION](https://docs.ilert.com/developer-docs/mcp-server/overview) for instructions on how to connect with the most popular AI agents and coding assistants like Claude, Cline, Cursor and Windsurf.
 
 For custom integrations or integrating with other MCP clients, follow the instructions below:
 
